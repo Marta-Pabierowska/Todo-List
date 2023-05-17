@@ -1,4 +1,3 @@
-// import React from "rect";
 import "./style.css";
 
 const Buttons = ({ tasks, hideDoneTasks }) => (
